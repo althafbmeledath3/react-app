@@ -18,4 +18,4 @@ class Card extends React.Component{
 
 export default Card
 
-// HTMLQuoteElement?fsdf  sdf
+// HTMLQuoteElement?fsdf  sdffsd
